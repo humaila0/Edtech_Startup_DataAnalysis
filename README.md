@@ -27,15 +27,6 @@ This Power BI dashboard was developed for an EdTech startup aiming to enhance it
 
 ---
 
-##  Dashboard Preview
-
-> Add a few screenshots in a `screenshots/` folder and link them here, like:
-
-![Category-wise Course Distribution](screenshots/category_distribution.png)
-![Average Views by Language](screenshots/views_by_language.png)
-
----
-
 ##  How to Use
 
 1. Download the `.pbix` file from this repository.
@@ -63,7 +54,6 @@ This Power BI dashboard was developed for an EdTech startup aiming to enhance it
 ## Contact
 
 **Humaila Muhammad Farooq**  
- humailafarooq77@gmail.com  
  [LinkedIn](https://www.linkedin.com/in/humaila-muhammad-farooq-3248b12bb) | [GitHub](https://github.com/humaila0)
 
 ---
